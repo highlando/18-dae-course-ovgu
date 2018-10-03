@@ -5,7 +5,7 @@ layout: index
 Course DAEs - OvGU - 2018
 -----
 
-> :rocket: There might be changes to the days of the lecture. Make sure to come along in the first lecture to discuss. Or send your preferred times (and the times that you are occupied) by email. 5th exercise is up. We will discuss it in the last week of the course.
+> :rocket: There might be changes to the days of the lecture. Make sure to come along in the first lecture to discuss. Or send your preferred times (and the times that you are occupied) by email. 
 
 Here you find basic and current information and materials for the lecture 
 *DAEs* at the OvGU in the summer term 2018.
