@@ -32,22 +32,22 @@ Consultation hours: Thursday 13:00-15:00 -- please make an appointment by email.
  0. Linear DAEs with constant coefficients (4+1)
    * Basic algebraic concepts <!--- [[week 2]](#week-2) -->
    * Normal forms
-   * Solvability and representations of solutions [[week 3]](#week-3)[[week 4]](#week-4)
+   * Solvability and representations of solutions <!--- [[week 3]](#week-3)[[week 4]](#week-4) -->
  0. Linear time-varying and nonlinear DAEs (4+1)
    * Fundamental differences with the linear time-invariant case 
-   * Time-dependent equivalence transformations and canonical forms [[week 5]](#week-5)
-   * *Derivative Arrays* [[week 6]](#week-6)
+   * Time-dependent equivalence transformations and canonical forms <!--- [[week 5]](#week-5) -->
+   * *Derivative Arrays* <!--- [[week 6]](#week-6) -->
    * *Differentiation-index and Strangeness-index*
  0. Numerical integration of DAEs (6+2)
    * Digression: Numerical integration of ODEs
-   * Runge-Kutta methods (RKM) for DAEs with constant coefficients [[week 7]](#week-7)[[week 8]](#week-8)
-   * RKM methods for semi-explicit "index-1" DAEs [[week 9]](#week-9)
+   * Runge-Kutta methods (RKM) for DAEs with constant coefficients <!--- [[week 7]](#week-7)[[week 8]](#week-8) -->
+   * RKM methods for semi-explicit "index-1" DAEs <!--- [[week 9]](#week-9) -->
    * RKM methods for implicit "index-1" DAEs
-   * *Backward Differencing* for DAEs [[week 10]](#week-10)
+   * *Backward Differencing* for DAEs <!--- [[week 10]](#week-10) -->
  0. Numerical Methods for index reduction (1)
    * Derivative Arrays
    * Minimal Extension
- 0. DAEs with controls (1) [[week 11]](#week-11)
+ 0. DAEs with controls (1) <!--- [[week 11]](#week-11) -->
    * Representation as *Behavior*
    * Index reduction through *Feedback*
 
