@@ -2,7 +2,7 @@
 layout: index
 ---
 
-Course DAEs - OvGU - 2016
+Course DAEs - OvGU - 2018
 -----
 
 > :rocket: The 5th exercise is up. We will discuss it in the last week of the course. That is Tuesday, July 5th.
@@ -14,8 +14,8 @@ Here you find basic and current information and materials for the lecture
 
 | Day | Time | Place |
 | ------- | ------ | ------- |
-| Tuesday | 17:00-18:30 | G05-313 |
-| Wednesday | 09:30-11:00 | G05-313 |
+| Thursday | 15:00-17:00 | G05-313 |
+| Friday | 11:00-13:00 | G05-308 |
 
 :memo: Jump to the [exercises](#exercises) section.
 
@@ -51,7 +51,7 @@ Here you find basic and current information and materials for the lecture
    * Representation as *Behavior*
    * Index reduction through *Feedback*
 
-### Exercises
+<!-- ### Exercises
 
 | Date | Topic | Sheet |
 | ------- | ------ | ------- |
@@ -59,7 +59,8 @@ Here you find basic and current information and materials for the lecture
 | [May 11th](#exerciseii) | II - Linear DAEs with constant coefficients | [ueb2.pdf](exercises/02/ueb2.pdf) |
 | [May 18th](#exerciseiii) | III - linear daes with time-varying coefficients | [ueb3.pdf](exercises/03/ueb3.pdf) |
 | [June 8th](#exerciseiv) | IV - one step methods | [ueb4.pdf](exercises/04/ueb04.pdf) |
-| [July 5th](#exercisev) | V - higher index and nonlinear equations | [ueb5.pdf](exercises/05/ueb05.pdf) |
+| [July 5th](#exercisev) | V - higher index and nonlinear equations | [ueb5.pdf](exercises/05/ueb05.pdf) | 
+-->
 
 ### Week 1
 
