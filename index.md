@@ -5,19 +5,19 @@ layout: index
 Course DAEs - OvGU - 2018
 -----
 
-> :rocket: The 5th exercise is up. We will discuss it in the last week of the course. That is Tuesday, July 5th.
-
-> :rocket: :rocket: There was a little mistake in the 5th exercise sheet (wrong initial conditions for the cars in the spring mass system) -- it's fixed now.
+> :rocket: There might be changes to the days of the lecture. Make sure to come along in the first lecture to discuss. Or send your preferred times (and the times that you are occupied) by email. 5th exercise is up. We will discuss it in the last week of the course.
 
 Here you find basic and current information and materials for the lecture 
-*DAEs* at the OvGU in the summer term 2016.
+*DAEs* at the OvGU in the summer term 2018.
 
 | Day | Time | Place |
 | ------- | ------ | ------- |
 | Thursday | 15:00-17:00 | G05-313 |
 | Friday | 11:00-13:00 | G05-308 |
 
-:memo: Jump to the [exercises](#exercises) section.
+Consultation hours: Thursday 13:00-15:00 -- please make an appointment by email.
+
+<!-- :memo: Jump to the [exercises](#exercises) section. -->
 
 <h3 id="overview">Course of the lecture (22+6=28)</h3>
  0. Introductory considerations (1) [[week 1]](#week-1)
@@ -68,8 +68,10 @@ Here you find basic and current information and materials for the lecture
 
 +++ DAEs are coupled differential and nondifferential (algebraic) equations +++ cf. the pendulum +++ which is naturally modelled as a DAE +++ as are electrical circuits, chemical reactions, and flows +++ in numerical schemes, equations are solved approximately - what does this mean for the pendulum? +++  [back to overview](#overview)
 
+<!-- 
 #### General notions from DAE calculus (1)
 +++ we consider *C1*-solutions although there are many ways to define less regular solutions +++ existence of solutions depends on several factors +++ smoothness of *right hand sides* +++ consistency of initial values +++ *hidden constraints* and *underlying ODE* +++ many ways to classify DAEs <-> many *indices* +++ [back to overview](#overview)
+-->
 
 #### Literature
 
@@ -78,6 +80,7 @@ Here you find basic and current information and materials for the lecture
 | Kunkel, Mehrmann | Differential-Algebraic Equations | Main reference, very concise, sometimes hard to read |
 | Hairer, Wanner | Solving ODEs. (Stiff and DAEs) | standard reference for solving ODEs (the first volume), intuitive and practical approach to numerical analysis of certain DAEs |
 
+<!--
 ### Week 2
 
 #### Linear DAEs with constant coefficients (1)
@@ -163,4 +166,4 @@ Here you find basic and current information and materials for the lecture
 ### Week 11
 <h4 id="exercisev">Course Exercise sheet V - July 5th </h4>
 +++ mass-spring chain +++ minimal extension +++ 2-stage Radau IIa +++ CODING: *Implicit Euler* for the nonlinear pendulum equations --- *Radau IIa* for the mass-spring manoeuvre --- simulation of index reduced systems +++ Resources: Use the code from the previous [exercise iv](#exerciseiv) --- check out the [*Oberwolfach snapshot*](http://www.mfo.de/math-in-public/snapshots/files/wie-steuert-man-einen-kran) on the mass-spring chain (in German) or the more verbose [preprint](http://www.mfo.de/scientific-programme/publications/owp/2015/OWP2015_18.pdf) (in English) +++ [back to overview](#overview)
-
+-->
