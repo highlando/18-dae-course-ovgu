@@ -30,7 +30,7 @@ Consultation hours: Thursday 13:00-15:00 -- please make an appointment by email.
    * Consistency and regularity
    * Indices
  0. Linear DAEs with constant coefficients (4+1)
-   * Basic algebraic concepts <!-- [[week 2]](#week-2) -->
+   * Basic algebraic concepts <!--- [[week 2]](#week-2) -->
    * Normal forms
    * Solvability and representations of solutions [[week 3]](#week-3)[[week 4]](#week-4)
  0. Linear time-varying and nonlinear DAEs (4+1)
