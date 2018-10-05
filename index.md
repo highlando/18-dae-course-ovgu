@@ -14,10 +14,10 @@ Here you find basic and current information and materials for the lecture
 
 | Day | Time | Place |
 | ------- | ------ | ------- |
-| Thursday | 15:00-17:00 | G05-313 |
+| Thursday | 13:00-15:00 | G05-313 |
 | Friday | 11:00-13:00 | G05-308 |
 
-Consultation hours: Thursday 13:00-15:00 -- please make an appointment by email. Contact data is on my [webpage](www.janheiland.de).
+Consultation hours: Thursday 12:00-13:00 -- please make an appointment by email. Contact data is on my [webpage](www.janheiland.de).
 
 <!-- :memo: Jump to the [exercises](#exercises) section. -->
 
