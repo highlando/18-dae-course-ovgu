@@ -7,15 +7,17 @@ Course DAEs - OvGU - 2018
 
 > :rocket: There might be changes to the days of the lecture. Make sure to come along in the first lecture to discuss. Or send your preferred times (and the times that you are occupied) by email. 
 
+> :rocket: :rocket: Also, in the first lecture, we will decide on the language. 
+
 Here you find basic and current information and materials for the lecture 
-*DAEs* at the OvGU in the summer term 2018.
+*DAEs* at the OvGU in the winter term 2018.
 
 | Day | Time | Place |
 | ------- | ------ | ------- |
 | Thursday | 15:00-17:00 | G05-313 |
 | Friday | 11:00-13:00 | G05-308 |
 
-Consultation hours: Thursday 13:00-15:00 -- please make an appointment by email.
+Consultation hours: Thursday 13:00-15:00 -- please make an appointment by email. Contact data is on my [webpage](www.janheiland.de).
 
 <!-- :memo: Jump to the [exercises](#exercises) section. -->
 
