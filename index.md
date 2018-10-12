@@ -12,7 +12,7 @@ Here you find basic and current information and materials for the lecture
 
 | Day | Time | Place |
 | ------- | ------ | ------- |
-| Thursday | 09:00-11:00 | tba |
+| Thursday | 09:00-11:00 | G12-129 |
 | Friday | 11:00-13:00 | G05-308 |
 
 Consultation hours: Thursday 12:00-13:00 -- please make an appointment by email. Contact data is on my [webpage](www.janheiland.de).
