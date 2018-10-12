@@ -5,16 +5,14 @@ layout: index
 Course DAEs - OvGU - 2018
 -----
 
-> :rocket: There might be changes to the days of the lecture. Make sure to come along in the first lecture to discuss. Or send your preferred times (and the times that you are occupied) by email. 
-
-> :rocket: :rocket: Also, in the first lecture, we will decide on the language. 
+> :rocket: We have changed the time of the Thursday lecture. The room will be announced soon.
 
 Here you find basic and current information and materials for the lecture 
 *DAEs* at the OvGU in the winter term 2018.
 
 | Day | Time | Place |
 | ------- | ------ | ------- |
-| Thursday | 13:00-15:00 | G05-313 |
+| Thursday | 09:00-11:00 | tba |
 | Friday | 11:00-13:00 | G05-308 |
 
 Consultation hours: Thursday 12:00-13:00 -- please make an appointment by email. Contact data is on my [webpage](www.janheiland.de).
