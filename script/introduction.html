@@ -68,6 +68,9 @@
 <li class="chapter" data-level="1.1.3" data-path=""><a href="#example-navier-stokes-equations"><i class="fa fa-check"></i><b>1.1.3</b> Example – Navier-Stokes Equations</a></li>
 <li class="chapter" data-level="1.1.4" data-path=""><a href="#example-automatic-modelling-or-engineers-vs.mathematicians"><i class="fa fa-check"></i><b>1.1.4</b> Example – Automatic Modelling or <em>Engineers vs. Mathematicians</em></a></li>
 </ul></li>
+<li class="chapter" data-level="1.2" data-path=""><a href="#why-are-daes-difficult-to-treat"><i class="fa fa-check"></i><b>1.2</b> Why are DAEs difficult to treat</a><ul>
+<li class="chapter" data-level="1.2.1" data-path=""><a href="#example-non-smooth-solutions"><i class="fa fa-check"></i><b>1.2.1</b> Example – non smooth solutions</a></li>
+</ul></li>
 </ul></li>
 </ul>
 
@@ -140,11 +143,11 @@ m\ddot y &amp;= -mg
 <tbody>
 <tr class="odd">
 <td align="left"><span class="math inline">\(q \leftarrow x\)</span></td>
-<td align="right"><span class="math inline">\(m\ddot x (t) + 2 \lambda x = 0\)</span></td>
+<td align="right"><span class="math inline">\(m\ddot x(t) + 2 \lambda (x(t) - c_x) = 0\)</span></td>
 </tr>
 <tr class="even">
 <td align="left"><span class="math inline">\(q \leftarrow y\)</span></td>
-<td align="right"><span class="math inline">\(m\ddot y (t) + mgy + 2 \lambda y = 0\)</span></td>
+<td align="right"><span class="math inline">\(m\ddot y(t) + mgy + 2 \lambda (y(t) - c_y) = 0\)</span></td>
 </tr>
 <tr class="odd">
 <td align="left"><span class="math inline">\(q \leftarrow \lambda\)</span></td>
@@ -206,6 +209,26 @@ v\colon (t, \xi) \mapsto v(t,\xi)\in \mathbb R^{3} \quad\text{and}\quad  p\colon
 <p>The approach of <em>automatic modelling</em> is universal and convenient for engineers. However, the resulting model equations will be DAEs which, as we will see, pose particular problems in their analytical and numerical treatment.</p>
 </div>
 </div>
+<div id="why-are-daes-difficult-to-treat" class="section level2">
+<h2><span class="header-section-number">1.2</span> Why are DAEs difficult to treat</h2>
+<p>Often, DAEs do not have smoothing properties, as opposed to ODEs where the solution is one degree smoother than the right hand side.</p>
+<div id="example-non-smooth-solutions" class="section level3">
+<h3><span class="header-section-number">1.2.1</span> Example – non smooth solutions</h3>
+<p>Consider the equation</p>
+<span class="math display">\[\begin{align}
+    \dot x_1(t) &amp;= x_2(t) \\
+        0 &amp; = x_2(t) -g(t)
+\end{align}\]</span>
+<p>where <span class="math inline">\(g\)</span> can be a nonsmooth function like</p>
+<p><span class="math display">\[
+    g(t) = 
+    \begin{cases} 
+        0, \quad\text{if}\quad t &lt; 1 \\
+        1, \quad\text{if}\quad t \geq 1 \\
+    \end{cases}
+\]</span></p>
+</div>
+</div>
 </div>
             </section>
 
@@ -236,7 +259,7 @@ gitbook.start({
 "link": null,
 "text": null
 },
-"download": "intro.pdf",
+"download": null,
 "toc": {
 "collapse": "subsection"
 },
