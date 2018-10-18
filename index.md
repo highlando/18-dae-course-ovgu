@@ -9,6 +9,8 @@ Course DAEs - OvGU - 2018
 
 > :rocket: First exercise is online. Due date: October 25th.
 
+> :rocket: The [script](http://janheiland.de/script-daes/) for the introduction is online but still needs some additions and polishing.
+
 Here you find basic and current information and materials for the lecture 
 *DAEs* at the OvGU in the winter term 2018.
 
