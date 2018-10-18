@@ -5,7 +5,9 @@ layout: index
 Course DAEs - OvGU - 2018
 -----
 
-> :rocket: We have changed the time of the Thursday lecture. The room will be announced soon.
+> :rocket: We have changed the time of the Thursday lecture. We are now in G12-129 and we start at 9:15 AM.
+
+> :rocket: First exercise is online. Due date: October 25th.
 
 Here you find basic and current information and materials for the lecture 
 *DAEs* at the OvGU in the winter term 2018.
@@ -30,8 +32,8 @@ Consultation hours: Thursday 12:00-13:00 -- please make an appointment by email.
    * Consistency and regularity
    * Indices
  0. Linear DAEs with constant coefficients (4+1)
-   * Basic algebraic concepts <!--- [[week 2]](#week-2) -->
-   * Normal forms
+   * Basic algebraic concepts 
+   * Normal forms [[week 2]](#week-2)
    * Solvability and representations of solutions <!--- [[week 3]](#week-3)[[week 4]](#week-4) -->
  0. Linear time-varying and nonlinear DAEs (4+1)
    * Fundamental differences with the linear time-invariant case 
@@ -51,11 +53,12 @@ Consultation hours: Thursday 12:00-13:00 -- please make an appointment by email.
    * Representation as *Behavior*
    * Index reduction through *Feedback*
 
-<!-- ### Exercises
+### Exercises
 
 | Date | Topic | Sheet |
 | ------- | ------ | ------- |
-| [April 20th](#exercisei) | I - Introductory Considerations and Basic Notions | [ueb1.pdf](exercises/01/ueb01.pdf) |
+| [October 25th](#exercisei) | I - Introductory Considerations and Basic Notions | [ueb1.pdf](exercises/01/ueb01.pdf) |
+<!-- 
 | [May 11th](#exerciseii) | II - Linear DAEs with constant coefficients | [ueb2.pdf](exercises/02/ueb2.pdf) |
 | [May 18th](#exerciseiii) | III - linear daes with time-varying coefficients | [ueb3.pdf](exercises/03/ueb3.pdf) |
 | [June 8th](#exerciseiv) | IV - one step methods | [ueb4.pdf](exercises/04/ueb04.pdf) |
@@ -66,12 +69,16 @@ Consultation hours: Thursday 12:00-13:00 -- please make an appointment by email.
 
 #### Introductory considerations (1)
 
-+++ DAEs are coupled differential and nondifferential (algebraic) equations +++ cf. the pendulum +++ which is naturally modelled as a DAE +++ as are electrical circuits, chemical reactions, and flows +++ in numerical schemes, equations are solved approximately - what does this mean for the pendulum? +++  [back to overview](#overview)
++++ DAEs are coupled differential and nondifferential (algebraic) equations +++ cf. the pendulum +++ which is naturally modelled as a DAE +++ as are electrical circuits, chemical reactions, and flows +++ in numerical schemes, equations are solved approximately  +++  [back to overview](#overview)
 
-<!-- 
 #### General notions from DAE calculus (1)
 +++ we consider *C1*-solutions although there are many ways to define less regular solutions +++ existence of solutions depends on several factors +++ smoothness of *right hand sides* +++ consistency of initial values +++ *hidden constraints* and *underlying ODE* +++ many ways to classify DAEs <-> many *indices* +++ [back to overview](#overview)
--->
+
+### Week 2
+
+#### Linear DAEs with constant coefficients (1)
++++ variable transforms and scalings do not affect solvability +++ DAEs <-> (E, A) matrix pairs +++ canonical forms +++ Weierstrass canonical form +++ canonical form of a linear DAE with constant coefficients +++ [back to overview](#overview)
+
 
 #### Literature
 
@@ -81,10 +88,6 @@ Consultation hours: Thursday 12:00-13:00 -- please make an appointment by email.
 | Hairer, Wanner | Solving ODEs. (Stiff and DAEs) | standard reference for solving ODEs (the first volume), intuitive and practical approach to numerical analysis of certain DAEs |
 
 <!--
-### Week 2
-
-#### Linear DAEs with constant coefficients (1)
-+++ variable transforms and scalings do not affect solvability +++ DAEs <-> (E, A) matrix pairs +++ canonical forms +++ Weierstrass canonical form +++ canonical form of a linear DAE with constant coefficients +++ [back to overview](#overview)
 
 #### Linear DAEs with constant coefficients (2)
 +++ splitting of DAEs into an ODE and a nilpotent DAE +++ explicit solution of the nilpotent DAE +++ index of a matrix pair (E,A) and its well-definedness +++ [back to overview](#overview)
