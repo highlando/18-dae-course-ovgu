@@ -5,9 +5,9 @@ layout: index
 Course DAEs - OvGU - 2018
 -----
 
-> :rocket: We have changed the time of the Thursday lecture. We are now in G12-129 and we start at 9:15 AM.
+> :rocket: Second exercise is online. Discussion on November 2nd (Friday).
 
-> :rocket: First exercise is online. Due date: October 25th.
+> :rocket: I have added the proof of the uniqueness of the *Drazin* inverse to the [script](http://janheiland.de/script-daes/).
 
 > :rocket: The [script](http://janheiland.de/script-daes/) for the introduction is online but still needs some additions and polishing.
 
@@ -21,7 +21,7 @@ Here you find basic and current information and materials for the lecture
 
 Consultation hours: Thursday 12:00-13:00 -- please make an appointment by email. Contact data is on my [webpage](www.janheiland.de).
 
-<!-- :memo: Jump to the [exercises](#exercises) section. -->
+:memo: Jump to the [exercises](#exercises) section.
 
 <h3 id="overview">Course of the lecture (22+6=28)</h3>
  0. Introductory considerations (1) [[week 1]](#week-1)
@@ -60,9 +60,9 @@ Consultation hours: Thursday 12:00-13:00 -- please make an appointment by email.
 | Date | Topic | Sheet |
 | ------- | ------ | ------- |
 | [October 25th](#exercisei) | I - Introductory Considerations and Basic Notions | [ueb1.pdf](exercises/01/ueb01.pdf) |
+| [May 11th](#exerciseii) | II - Linear DAEs with constant coefficients | [ueb2.pdf](exercises/02/ueb2.pdf) |
 
 <!-- 
-| [May 11th](#exerciseii) | II - Linear DAEs with constant coefficients | [ueb2.pdf](exercises/02/ueb2.pdf) |
 | [May 18th](#exerciseiii) | III - linear daes with time-varying coefficients | [ueb3.pdf](exercises/03/ueb3.pdf) |
 | [June 8th](#exerciseiv) | IV - one step methods | [ueb4.pdf](exercises/04/ueb04.pdf) |
 | [July 5th](#exercisev) | V - higher index and nonlinear equations | [ueb5.pdf](exercises/05/ueb05.pdf) | 
@@ -82,8 +82,19 @@ Consultation hours: Thursday 12:00-13:00 -- please make an appointment by email.
 #### Linear DAEs with constant coefficients (1)
 +++ variable transforms and scalings do not affect solvability +++ DAEs <-> (E, A) matrix pairs +++ canonical forms +++ Weierstrass canonical form +++ canonical form of a linear DAE with constant coefficients +++ [back to overview](#overview)
 
+#### Linear DAEs with constant coefficients (2)
++++ splitting of DAEs into an ODE and a nilpotent DAE +++ explicit solution of the nilpotent DAE +++ index of a matrix pair (E,A) and its well-definedness +++ [back to overview](#overview)
 
-#### Literature
+### Week 3 
+
+<h4 id="exercisei"> Course Exercise sheet I - Oct 25th </h4>
++++ multibody systems +++ separation of algebraic and differential parts +++ remodelling of the simple pendulum as ODE +++ Navier-Stokes equations +++ links to [ode modelling of the pendulum](http://www.engr.iupui.edu/~skoskie/ECE680/ECE680_l3notes.pdf) and the overhead crane +++ [back to overview](#overview)
+
+#### Linear DAEs with constant coefficients (3)
++++ solvability solved +++ way to arrive at a explicit solution formula +++ definition of the Drazin inverse +++ properties of the Drazin inverse +++ [back to overview](#overview)
+
+
+### Literature
 
 | Author | Title | comments |
 | ------- | ------ | ------- |
@@ -91,17 +102,6 @@ Consultation hours: Thursday 12:00-13:00 -- please make an appointment by email.
 | Hairer, Wanner | Solving ODEs. (Stiff and DAEs) | standard reference for solving ODEs (the first volume), intuitive and practical approach to numerical analysis of certain DAEs |
 
 <!--
-
-#### Linear DAEs with constant coefficients (2)
-+++ splitting of DAEs into an ODE and a nilpotent DAE +++ explicit solution of the nilpotent DAE +++ index of a matrix pair (E,A) and its well-definedness +++ [back to overview](#overview)
-
-### Week 3 
-
-#### Linear DAEs with constant coefficients (3) - April 19th
-+++ solvability solved +++ way to arrive at a explicit solution formula +++ definition of the Drazin inverse +++ properties of the Drazin inverse +++ [back to overview](#overview)
-
-<h4 id="exercisei"> Course Exercise sheet I - April 20th </h4>
-+++ multibody systems +++ separation of algebraic and differential parts +++ remodelling of the simple pendulum as ODE +++ Navier-Stokes equations +++ links to [ode modelling of the pendulum](http://www.engr.iupui.edu/~skoskie/ECE680/ECE680_l3notes.pdf) and the overhead crane +++ [back to overview](#overview)
 
 ### Week 4 
 
