@@ -60,7 +60,7 @@ Consultation hours: Thursday 12:00-13:00 -- please make an appointment by email.
 | Date | Topic | Sheet |
 | ------- | ------ | ------- |
 | [October 25th](#exercisei) | I - Introductory Considerations and Basic Notions | [ueb1.pdf](exercises/01/ueb01.pdf) |
-| [May 11th](#exerciseii) | II - Linear DAEs with constant coefficients | [ueb2.pdf](exercises/02/ueb2.pdf) |
+| [November 2nd](#exerciseii) | II - Linear DAEs with constant coefficients | [ueb2.pdf](exercises/02/ueb2.pdf) |
 
 <!-- 
 | [May 18th](#exerciseiii) | III - linear daes with time-varying coefficients | [ueb3.pdf](exercises/03/ueb3.pdf) |
