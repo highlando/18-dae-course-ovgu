@@ -5,11 +5,9 @@ layout: index
 Course DAEs - OvGU - 2018
 -----
 
-> :rocket: Second exercise is online. Discussion on November 2nd (Friday).
+> :rocket: Third exercise is online. Discussion on November 16th (Friday).
 
-> :rocket: I have added the proof of the uniqueness of the *Drazin* inverse to the [script](http://janheiland.de/script-daes/).
-
-> :rocket: The [script](http://janheiland.de/script-daes/) for the introduction is online but still needs some additions and polishing.
+> :rocket: I have added the examples from the last lecture to the [script](http://janheiland.de/script-daes/).
 
 Here you find basic and current information and materials for the lecture 
 *DAEs* at the OvGU in the winter term 2018.
@@ -62,6 +60,7 @@ Consultation hours: Thursday 12:00-13:00 -- please make an appointment by email.
 | [October 25th](#exercisei) | I - Introductory Considerations and Basic Notions | [ueb1.pdf](exercises/01/ueb01.pdf) |
 | [November 2nd](#exerciseii) | II - Linear DAEs with constant coefficients | [ueb2.pdf](exercises/02/ueb2.pdf) |
 | [November 16th](#exerciseiii) | III - linear daes with time-varying coefficients | [ueb3.pdf](exercises/03/ueb3.pdf) |
+
 <!-- 
 | [June 8th](#exerciseiv) | IV - one step methods | [ueb4.pdf](exercises/04/ueb04.pdf) |
 | [July 5th](#exercisev) | V - higher index and nonlinear equations | [ueb5.pdf](exercises/05/ueb05.pdf) | 
