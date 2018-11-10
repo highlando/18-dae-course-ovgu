@@ -61,9 +61,8 @@ Consultation hours: Thursday 12:00-13:00 -- please make an appointment by email.
 | ------- | ------ | ------- |
 | [October 25th](#exercisei) | I - Introductory Considerations and Basic Notions | [ueb1.pdf](exercises/01/ueb01.pdf) |
 | [November 2nd](#exerciseii) | II - Linear DAEs with constant coefficients | [ueb2.pdf](exercises/02/ueb2.pdf) |
-
+| [November 16th](#exerciseiii) | III - linear daes with time-varying coefficients | [ueb3.pdf](exercises/03/ueb3.pdf) |
 <!-- 
-| [May 18th](#exerciseiii) | III - linear daes with time-varying coefficients | [ueb3.pdf](exercises/03/ueb3.pdf) |
 | [June 8th](#exerciseiv) | IV - one step methods | [ueb4.pdf](exercises/04/ueb04.pdf) |
 | [July 5th](#exercisev) | V - higher index and nonlinear equations | [ueb5.pdf](exercises/05/ueb05.pdf) | 
 -->
@@ -93,6 +92,25 @@ Consultation hours: Thursday 12:00-13:00 -- please make an appointment by email.
 #### Linear DAEs with constant coefficients (3)
 +++ solvability solved +++ way to arrive at a explicit solution formula +++ definition of the Drazin inverse +++ properties of the Drazin inverse +++ [back to overview](#overview)
 
+### Week 4 
+
+#### Linear DAEs with constant coefficients (4) 
+
++++ DAE as superposition of a nilpotent DAE and an *index-1* DAE +++ explicit formula for all solutions of the homogeneous equations +++ explicit form of a solution of the inhomogeneous equations +++ [back to overview](#overview)
+
+<h4 id="exerciseii"> Course Exercise sheet II - Nov 2nd </h4>
++++ regularity and Kronecker form of 3x3 examples +++ index-1 condition +++ regularity and commutativity +++ Drazin inverse as group inverse +++ [back to overview](#overview)
+
+### Week 5 
+
+#### Linear DAEs with time-varying coefficients (1)
+
++++ regularity of matrix pairs does not say much about solvability of LTV DAEs +++ time-dependent state transformations +++ global and local equivalence of matrix function pairs +++ [back to overview](#overview)
+
+
+#### Linear DAEs with time-varying coefficients (2)
+
++++ characteristic values +++ canonical form for local equivalence transformations +++ time-varying SVD +++ canonical form for global equivalence transformations +++ [back to overview](#overview)
 
 ### Literature
 
@@ -102,25 +120,6 @@ Consultation hours: Thursday 12:00-13:00 -- please make an appointment by email.
 | Hairer, Wanner | Solving ODEs. (Stiff and DAEs) | standard reference for solving ODEs (the first volume), intuitive and practical approach to numerical analysis of certain DAEs |
 
 <!--
-
-### Week 4 
-
-#### Linear DAEs with constant coefficients (4) - April 26th
-
-+++ DAE as superposition of a nilpotent DAE and an *index-1* DAE +++ explicit formula for all solutions of the homogeneous equations +++ explicit form of a solution of the inhomogeneous equations +++ [back to overview](#overview)
-
-#### Linear DAEs with time-varying coefficients (1) - April 27th
-
-+++ regularity of matrix pairs does not say much about solvability of LTV DAEs +++ time-dependent state transformations +++ global and local equivalence of matrix function pairs +++ [back to overview](#overview)
-
-### Week 5 
-
-#### Linear DAEs with time-varying coefficients (2) - May 10th
-
-+++ characteristic values +++ canonical form for local equivalence transformations +++ time-varying SVD +++ canonical form for global equivalence transformations +++ [back to overview](#overview)
-
-<h4 id="exerciseii"> Course Exercise sheet II - May 11th </h4>
-+++ regularity and Kronecker form of 3x3 examples +++ index-1 condition +++ regularity and commutativity +++ Drazin inverse as group inverse +++ [back to overview](#overview)
 
 ### Week 5 
 
