@@ -5,9 +5,7 @@ layout: index
 Course DAEs - OvGU - 2018
 -----
 
-> :rocket: Third exercise is online. Discussion on November 16th (Friday).
-
-> :rocket: I have added the examples from the last lecture to the [script](http://janheiland.de/script-daes/).
+> :rocket: As announced, we may have the lectures of December 20/21 on [paperhive](https://paperhive.org/). Basically, there will be a script of the lectures and we can annotate and discuss it online. See this [paperhive discussion](https://paperhive.org/documents/items/RZ4IwCCVGOqO?a=p:12) to get an idea of it. If you have concerns, let me know.
 
 Here you find basic and current information and materials for the lecture 
 *DAEs* at the OvGU in the winter term 2018.
@@ -17,7 +15,9 @@ Here you find basic and current information and materials for the lecture
 | Thursday | 09:00-11:00 | G12-129 |
 | Friday | 11:00-13:00 | G05-308 |
 
-Consultation hours: Thursday 12:00-13:00 -- please make an appointment by email. Contact data is on my [webpage](www.janheiland.de).
+Consultation hours: Thursday 11:00-12:00 -- please make an appointment by email. Contact data is on my [webpage](www.janheiland.de).
+
+:memo: Here is my [write-up](http://janheiland.de/script-daes/) of some selected topics.
 
 :memo: Jump to the [exercises](#exercises) section.
 
@@ -111,6 +111,16 @@ Consultation hours: Thursday 12:00-13:00 -- please make an appointment by email.
 
 +++ characteristic values +++ canonical form for local equivalence transformations +++ time-varying SVD +++ canonical form for global equivalence transformations +++ [back to overview](#overview)
 
+### Week 6 
+
+#### Linear DAEs with time-varying coefficients (3)
++++ global equivalence ctd. +++ strangeness index +++ derivative arrays +++ [back to overview](#overview)
+
+
+<h4 id="exerciseiii"> Course Exercise sheet III - Nov 16th </h4>
++++ global/local equivalence of matrix pairs +++ time-varying Drazin inverse +++ [back to overview](#overview)
+
+
 ### Literature
 
 | Author | Title | comments |
@@ -118,18 +128,11 @@ Consultation hours: Thursday 12:00-13:00 -- please make an appointment by email.
 | Kunkel, Mehrmann | Differential-Algebraic Equations | Main reference, very concise, sometimes hard to read |
 | Hairer, Wanner | Solving ODEs. (Stiff and DAEs) | standard reference for solving ODEs (the first volume), intuitive and practical approach to numerical analysis of certain DAEs |
 
-<!--
 
-### Week 5 
-
-#### Linear DAEs with time-varying coefficients (3) - May 17th
-
-<h4 id="exerciseiii"> Course Exercise sheet III - May 18th </h4>
-
+<!-- 
 ### Week 6
 
-#### Linear DAEs with time-varying coefficients (4) - May 24th
-+++ derivative arrays +++ strangeness free condensed form of linearized Navier-Stokes equations +++ derivative arrays for nonlinear DAEs +++ [back to overview](#overview)
+strangeness free condensed form of linearized Navier-Stokes equations +++ derivative arrays for nonlinear DAEs +++ 
 
 #### Digression: Numerical Solutions of ODEs - May 25th
 +++ basic definitions +++ implicit/explicit Euler +++ consistency and stability +++ Runge-Kutta schemes +++ BDF schemes +++ [back to overview](#overview)
