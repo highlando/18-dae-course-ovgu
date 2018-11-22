@@ -7,6 +7,8 @@ Course DAEs - OvGU - 2018
 
 > :rocket: As announced, we may have the lectures of December 20/21 on [paperhive](https://paperhive.org/). Basically, there will be a script of the lectures and we can annotate and discuss it online. See this [paperhive discussion](https://paperhive.org/documents/items/RZ4IwCCVGOqO?a=p:12) to get an idea of it. If you have concerns, let me know.
 
+> :rocket: :rocket: No lecture on November 29th but there is a homework: _make yourself familiar with basic principles of **numerical integration of ODEs**_: 1. How does Euler's method work. 2. What is the consistency error? 3. What is stability? 4. What is meant by convergence? 5. What are Runge-Kutta methods? Here will be a [scan](files/intro-num-odes.pdf) of the lecture I had on this by Hans-G&ouml;rg Roos back then.
+
 Here you find basic and current information and materials for the lecture 
 *DAEs* at the OvGU in the winter term 2018.
 
@@ -120,6 +122,14 @@ Consultation hours: Thursday 11:00-12:00 -- please make an appointment by email.
 <h4 id="exerciseiii"> Course Exercise sheet III - Nov 16th </h4>
 +++ global/local equivalence of matrix pairs +++ time-varying Drazin inverse +++ [back to overview](#overview)
 
+### Week 7
+
+#### Linear DAEs with time-varying coefficients (4)
+strangeness free condensed form of linearized Navier-Stokes equations +++ derivative arrays for nonlinear DAEs +++ [back to overview](#overview)
+
+#### Index-Reduction
+general ideas and notions +++ local computation of the strangeness-free reformulation +++ minimal extension +++ [back to overview](#overview)
+
 
 ### Literature
 
@@ -130,9 +140,6 @@ Consultation hours: Thursday 11:00-12:00 -- please make an appointment by email.
 
 
 <!-- 
-### Week 6
-
-strangeness free condensed form of linearized Navier-Stokes equations +++ derivative arrays for nonlinear DAEs +++ 
 
 #### Digression: Numerical Solutions of ODEs - May 25th
 +++ basic definitions +++ implicit/explicit Euler +++ consistency and stability +++ Runge-Kutta schemes +++ BDF schemes +++ [back to overview](#overview)
