@@ -7,7 +7,7 @@ Course DAEs - OvGU - 2018
 
 > :rocket: As announced, we may have the lectures of December 20/21 on [paperhive](https://paperhive.org/). Basically, there will be a script of the lectures and we can annotate and discuss it online. See this [paperhive discussion](https://paperhive.org/documents/items/RZ4IwCCVGOqO?a=p:12) to get an idea of it. If you have concerns, let me know.
 
-> :rocket: :rocket: No lecture on November 29th but there is a homework: _make yourself familiar with basic principles of **numerical integration of ODEs**_: 1. How does Euler's method work. 2. What is the consistency error? 3. What is stability? 4. What is meant by convergence? 5. What are Runge-Kutta methods? By Monday, here will be a [scan](files/intro-num-odes.pdf) of the lecture I had on this by Hans-G&ouml;rg Roos back then.
+> :rocket: :rocket: No lecture on November 29th but there is a homework: _make yourself familiar with basic principles of **numerical integration of ODEs**_: 1. How does Euler's method work. 2. What is the consistency error? 3. What is stability? 4. What is meant by convergence? 5. What are Runge-Kutta methods? Here is a [scan](files/intro-num-odes.pdf) of the lecture I had on this by Hans-G&ouml;rg Roos back then.
 
 Here you find basic and current information and materials for the lecture 
 *DAEs* at the OvGU in the winter term 2018.
