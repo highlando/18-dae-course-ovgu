@@ -62,9 +62,9 @@ Consultation hours: Thursday 11:00-12:00 -- please make an appointment by email.
 | [October 25th](#exercisei) | I - Introductory Considerations and Basic Notions | [ueb1.pdf](exercises/01/ueb01.pdf) |
 | [November 2nd](#exerciseii) | II - Linear DAEs with constant coefficients | [ueb2.pdf](exercises/02/ueb2.pdf) |
 | [November 16th](#exerciseiii) | III - linear daes with time-varying coefficients | [ueb3.pdf](exercises/03/ueb3.pdf) |
+| [Dec 6th](#exerciseiv) | IV - one step methods | [ueb4.pdf](exercises/04/ueb04.pdf) |
 
 <!-- 
-| [June 8th](#exerciseiv) | IV - one step methods | [ueb4.pdf](exercises/04/ueb04.pdf) |
 | [July 5th](#exercisev) | V - higher index and nonlinear equations | [ueb5.pdf](exercises/05/ueb05.pdf) | 
 -->
 
@@ -130,6 +130,14 @@ strangeness free condensed form of linearized Navier-Stokes equations +++ deriva
 #### Index-Reduction
 general ideas and notions +++ local computation of the strangeness-free reformulation +++ minimal extension for NSE +++ see Kunkel/Mehrmann book 6.4 or this [original paper](http://www.mathematik.uni-leipzig.de/MI/kunkel/papers/km15.ps.gz) on *minimal extension* +++ [back to overview](#overview)
 
+### Week 8
+
+#### Homework -- Numerical Methods for ODEs
+
+How does Euler's method work. +++ What is the consistency error? +++ What is stability? +++ What is meant by convergence? +++ What are Runge-Kutta methods +++ Here is a [scan](files/intro-num-odes.pdf) of the lecture I had on this by Hans-G&ouml;rg Roos back then. +++ [back to overview](#overview)
+
+#### Numerical Solutions of DAEs (1)
++++ basic notions and definitions +++ Kronecker product and perfect shuffle +++ Runge-Kutta methods +++ [back to overview](#overview)
 
 ### Literature
 
@@ -145,10 +153,6 @@ general ideas and notions +++ local computation of the strangeness-free reformul
 +++ basic definitions +++ implicit/explicit Euler +++ consistency and stability +++ Runge-Kutta schemes +++ BDF schemes +++ [back to overview](#overview)
 
 
-### Week 7
-
-#### Numerical Solutions of DAEs (1) - May 31th
-+++ basic notions and definitions +++ Kronecker product and perfect shuffle +++ Runge-Kutta methods +++ [back to overview](#overview)
 
 #### Numerical Solutions of DAEs (2) - June 1st
 +++ Numerical analysis of Runge-Kutta schemes for DAEs with constant coefficients +++ the local consistency error +++ [back to overview](#overview)
