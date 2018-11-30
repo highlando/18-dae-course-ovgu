@@ -62,7 +62,7 @@ Consultation hours: Thursday 11:00-12:00 -- please make an appointment by email.
 | [October 25th](#exercisei) | I - Introductory Considerations and Basic Notions | [ueb1.pdf](exercises/01/ueb01.pdf) |
 | [November 2nd](#exerciseii) | II - Linear DAEs with constant coefficients | [ueb2.pdf](exercises/02/ueb2.pdf) |
 | [November 16th](#exerciseiii) | III - linear daes with time-varying coefficients | [ueb3.pdf](exercises/03/ueb3.pdf) |
-| [Dec 6th](#exerciseiv) | IV - one step methods | [ueb4.pdf](exercises/04/ueb04.pdf) |
+| [December 6th](#exerciseiv) | IV - one step methods | [ueb4.pdf](exercises/04/ueb04.pdf) |
 
 <!-- 
 | [July 5th](#exercisev) | V - higher index and nonlinear equations | [ueb5.pdf](exercises/05/ueb05.pdf) | 
