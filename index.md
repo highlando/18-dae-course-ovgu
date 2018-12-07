@@ -139,13 +139,21 @@ How does Euler's method work. +++ What is the consistency error? +++ What is sta
 #### Numerical Solutions of DAEs (1)
 +++ basic notions and definitions +++ Kronecker product and perfect shuffle +++ Runge-Kutta methods +++ [back to overview](#overview)
 
+### Week 9
+
+<h4 id="exerciseiv">Course Exercise sheet IV</h4>
++++ effect of rounding errors +++ consistency errors +++ two-stage Gauss method for ODEs and DAEs +++ Runge-Kutta method for linear DAEs +++ CODING: C1:*Explicit Euler and rounding errors* +++  C2:*Implicit Euler* for linear DAEs with time-varying coefficients +++ Resources: Matlab implementation by Jens Bremer -- [[zip file](exercises/04/code/Ex4_JensBremer.zip)], Python implementation -- [[webview](exercises/04/code/4c2.html)], [[ipython notebook](exercises/04/code/4c2.ipynb)], [[python file](exercises/04/code/4c2.py)] -- [[py-script to compute κs]](exercises/04/code/dae-butcher.py) +++ [back to overview](#overview)
+
+#### Numerical Solutions of DAEs (3)
++++ Numerical analysis of Runge-Kutta schemes for DAEs with constant coefficients +++ the local consistency error +++ the global convergence error +++ [back to overview](#overview)
+
+
 ### Literature
 
 | Author | Title | comments |
 | ------- | ------ | ------- |
 | Kunkel, Mehrmann | Differential-Algebraic Equations | Main reference, very concise, sometimes hard to read |
 | Hairer, Wanner | Solving ODEs. (Stiff and DAEs) | standard reference for solving ODEs (the first volume), intuitive and practical approach to numerical analysis of certain DAEs |
-
 
 <!-- 
 
@@ -155,15 +163,8 @@ How does Euler's method work. +++ What is the consistency error? +++ What is sta
 
 
 #### Numerical Solutions of DAEs (2) - June 1st
-+++ Numerical analysis of Runge-Kutta schemes for DAEs with constant coefficients +++ the local consistency error +++ [back to overview](#overview)
++++ Numerical analysis of Runge-Kutta schemes for DAEs with constant coefficients +++  [back to overview](#overview)
 
-### Week 8
-
-#### Numerical Solutions of DAEs (3) - June 7th
-+++ Numerical analysis of Runge-Kutta schemes for DAEs with constant coefficients +++ the global convergence error +++ [back to overview](#overview)
-
-<h4 id="exerciseiv">Course Exercise sheet IV - June 8th </h4>
-+++ effect of rounding errors +++ consistency errors +++ two-stage Gauss method for ODEs and DAEs +++ Runge-Kutta method for linear DAEs +++ CODING: C1:*Explicit Euler and rounding errors* +++  C2:*Implicit Euler* for linear DAEs with time-varying coefficients +++ Resources: Matlab implementation by Jens Bremer -- [[zip file](exercises/04/code/Ex4_JensBremer.zip)], Python implementation -- [[webview](exercises/04/code/4c2-ipynb.html)], [[ipython notebook](exercises/04/code/4c2.ipynb)], [[python file](exercises/04/code/4c2.py)] +++ [back to overview](#overview)
 
 ### Week 9
 
