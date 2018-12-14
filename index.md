@@ -7,7 +7,7 @@ Course DAEs - OvGU - 2018
 
 > :rocket: As announced, we may have the lectures of December 20/21 on [paperhive](https://paperhive.org/). Basically, there will be a script of the lectures and we can annotate and discuss it online. See this [paperhive discussion](https://paperhive.org/documents/items/RZ4IwCCVGOqO?a=p:12) to get an idea of it. If you have concerns, let me know.
 
-> :rocket: :rocket: No lecture on November 29th but there is a homework: _make yourself familiar with basic principles of **numerical integration of ODEs**_: 1. How does Euler's method work. 2. What is the consistency error? 3. What is stability? 4. What is meant by convergence? 5. What are Runge-Kutta methods? Here is a [scan](files/intro-num-odes.pdf) of the lecture I had on this by Hans-G&ouml;rg Roos back then.
+> :rocket: :rocket: I will provide the script and the link for the *paperhive* lecture by Thursday morning. 
 
 Here you find basic and current information and materials for the lecture 
 *DAEs* at the OvGU in the winter term 2018.
@@ -145,8 +145,15 @@ How does Euler's method work. +++ What is the consistency error? +++ What is sta
 +++ effect of rounding errors +++ consistency errors +++ two-stage Gauss method for ODEs and DAEs +++ Runge-Kutta method for linear DAEs +++ CODING: C1:*Explicit Euler and rounding errors* +++  C2:*Implicit Euler* for linear DAEs with time-varying coefficients +++ Resources: Matlab implementation by Jens Bremer -- [[zip file](exercises/04/code/Ex4_JensBremer.zip)], Python implementation -- [[webview](exercises/04/code/4c2.html)], [[ipython notebook](exercises/04/code/4c2.ipynb)], [[python file](exercises/04/code/4c2.py)] -- [[py-script to compute κs]](exercises/04/code/dae-butcher.py) +++ [back to overview](#overview)
 
 #### Numerical Solutions of DAEs (3)
-+++ Numerical analysis of Runge-Kutta schemes for DAEs with constant coefficients +++ the local consistency error +++ the global convergence error +++ [back to overview](#overview)
++++ Numerical analysis of Runge-Kutta schemes for DAEs with constant coefficients +++ the local consistency error +++ [back to overview](#overview)
 
+### Week 10
+
+#### Numerical Solutions of DAEs (4)
++++ Numerical analysis of Runge-Kutta schemes for DAEs with constant coefficients +++ the global consistency error +++ stiffly accurate RKM +++ [back to overview](#overview)
+
+#### Numerical Solutions of DAEs (5)
++++ Numerical analysis of Runge-Kutta schemes for DAEs with constant coefficients +++ BDF schemes +++ formulation and warnings concerning RKM for DAEs with time-varying coefficients +++ [back to overview](#overview)
 
 ### Literature
 
