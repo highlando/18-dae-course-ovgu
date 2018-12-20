@@ -5,9 +5,8 @@ layout: index
 Course DAEs - OvGU - 2018
 -----
 
-> :rocket: As announced, we may have the lectures of December 20/21 on [paperhive](https://paperhive.org/). Basically, there will be a script of the lectures and we can annotate and discuss it online. See this [paperhive discussion](https://paperhive.org/documents/items/RZ4IwCCVGOqO?a=p:12) to get an idea of it. If you have concerns, let me know.
+> :rocket: Here is the paperhive lecture. Looks like you have to join this [channel](https://paperhive.org/channels/invitationLink?token=Rnz0EW4CHT70) to see the document.
 
-> :rocket: :rocket: I will provide the script and the link for the *paperhive* lecture by Thursday morning. 
 
 Here you find basic and current information and materials for the lecture 
 *DAEs* at the OvGU in the winter term 2018.
