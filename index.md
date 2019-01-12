@@ -151,6 +151,22 @@ How does Euler's method work. +++ What is the consistency error? +++ What is sta
 #### Numerical Solutions of DAEs (5)
 +++ Numerical analysis of Runge-Kutta schemes for DAEs with constant coefficients +++ BDF schemes +++ formulation and warnings concerning RKM for DAEs with time-varying coefficients +++ [back to overview](#overview)
 
+
+### Week 11
+#### Numerical Solutions of DAEs (6-7)
++++ online lecture +++ RKM for nonlinear DAEs +++ semi-explicit strangeness-free +++ collocation and RKM +++ [back to overview](#overview)
+
+### Week 12
+#### Numerical Solutions of DAEs (8)
+RKM for nonlinear DAEs +++ semi-explicit index-2 +++ the *Hairer-Wanner* analysis approach +++ recap: collocation and RKM +++ [back to overview](#overview)
+
+#### Overview on Results and Software
++++ see the [script](http://janheiland.de/script-daes/numerical-analysis-and-software-overview.html) +++ [back to overview](#overview)
+
+### Week 13
+<h4 id="exercisev">Course Exercise sheet V - July 5th </h4>
++++ mass-spring chain +++ minimal extension +++ 2-stage Radau IIa +++ CODING: *Implicit Euler* for the nonlinear pendulum equations --- *Radau IIa* for the mass-spring manoeuvre --- simulation of index reduced systems +++ Resources: Use the code from the previous [exercise iv](#exerciseiv) --- check out the [*Oberwolfach snapshot*](http://www.mfo.de/math-in-public/snapshots/files/wie-steuert-man-einen-kran) on the mass-spring chain (in German) or the more verbose [preprint](http://www.mfo.de/scientific-programme/publications/owp/2015/OWP2015_18.pdf) (in English) +++ [back to overview](#overview)
+
 ### Literature
 
 | Author | Title | comments |
@@ -186,6 +202,4 @@ How does Euler's method work. +++ What is the consistency error? +++ What is sta
 +++ general concepts of index reduction +++ numerical approach to index reduction via derivative arrays +++ minimal extension +++ [back to overview](#overview)
 
 ### Week 11
-<h4 id="exercisev">Course Exercise sheet V - July 5th </h4>
-+++ mass-spring chain +++ minimal extension +++ 2-stage Radau IIa +++ CODING: *Implicit Euler* for the nonlinear pendulum equations --- *Radau IIa* for the mass-spring manoeuvre --- simulation of index reduced systems +++ Resources: Use the code from the previous [exercise iv](#exerciseiv) --- check out the [*Oberwolfach snapshot*](http://www.mfo.de/math-in-public/snapshots/files/wie-steuert-man-einen-kran) on the mass-spring chain (in German) or the more verbose [preprint](http://www.mfo.de/scientific-programme/publications/owp/2015/OWP2015_18.pdf) (in English) +++ [back to overview](#overview)
 -->
