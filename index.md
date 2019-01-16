@@ -7,6 +7,8 @@ Course DAEs - OvGU - 2018
 
 > :rocket: :rocket: Major typo in the exercise sheet. We want to analyze the BDF for the DAE `Nx'=x+f` rather than the ODE `x'=Nx+f`. I have updated the sheet.
 
+> :rocket: I have added the Butcher scheme of `RadauIIa-2` to the script to compute the `kappa`s in exercise IV.
+
 > :rocket: Here is the paperhive lecture. Looks like you have to join this [channel](https://paperhive.org/channels/invitationLink?token=Rnz0EW4CHT70) to see the document.
 
 

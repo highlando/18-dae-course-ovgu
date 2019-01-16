@@ -47,15 +47,21 @@ if __name__ == '__main__':
     gamma = np.array([.5-z, .5+z]).reshape((2, 1))
     biga = np.array([.25, .25-z, .25+z, .25]).reshape((2, 2))
     ainv = 12*np.array([.25, -.25+z, -.25-z, .25]).reshape((2, 2))
+
+    name = 'RadauIIa-1'
+    beta = np.array([1.]).reshape((1, 1))
+    gamma = np.array([1.]).reshape((1, 1))
+    ainv = np.array([1.]).reshape((1, 1))
+    biga = np.array([1.]).reshape((1, 1))
+
+    name = 'RadauIIa-2'
+    dzi = 1./12
+    beta = np.array([9*dzi, 3*dzi]).reshape((2, 1))
+    gamma = np.array([4*dzi, 1.]).reshape((2, 1))
+    biga = np.array([5*dzi, -dzi, 9*dzi, 3*dzi]).reshape((2, 2))
+    ainv = 6*np.array([3*dzi, dzi, -9*dzi, 5*dzi]).reshape((2, 2))
+
     print(name)
-
-    # name = 'RadauIIa-1'
-    # beta = np.array([1.]).reshape((1, 1))
-    # gamma = np.array([1.]).reshape((1, 1))
-    # ainv = np.array([1.]).reshape((1, 1))
-    # biga = np.array([1.]).reshape((1, 1))
-    # print(name)
-
     print('\nbeta.T:\n', beta.T)
     print('\ngamma:\n', gamma)
     print('\nbiga:\n', biga)
