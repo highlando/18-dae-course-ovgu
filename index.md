@@ -169,7 +169,10 @@ RKM for nonlinear DAEs +++ semi-explicit index-2 +++ the *Hairer-Wanner* analysi
 
 ### Week 13
 <h4 id="exercisev">Course Exercise sheet V - July 5th </h4>
-+++ mass-spring chain +++ minimal extension +++ 2-stage Radau IIa +++ CODING: *Implicit Euler* for the nonlinear pendulum equations --- *Radau IIa* for the mass-spring manoeuvre --- simulation of index reduced systems +++ Resources: Use the code from the previous [exercise iv](#exerciseiv) --- check out the [*Oberwolfach snapshot*](http://www.mfo.de/math-in-public/snapshots/files/wie-steuert-man-einen-kran) on the mass-spring chain (in German) or the more verbose [preprint](http://www.mfo.de/scientific-programme/publications/owp/2015/OWP2015_18.pdf) (in English) +++ [back to overview](#overview)
++++ mass-spring chain +++ minimal extension +++ 2-stage Radau IIa +++ CODING: *Implicit Euler* for the nonlinear pendulum equations --- *Radau IIa* for the mass-spring manoeuvre --- simulation of index reduced systems +++ Resources: Use the code from the previous [exercise iv](#exerciseiv) --- check out the [*Oberwolfach snapshot*](http://www.mfo.de/math-in-public/snapshots/files/wie-steuert-man-einen-kran) on the mass-spring chain (in German) or the more verbose [preprint](http://www.mfo.de/scientific-programme/publications/owp/2015/OWP2015_18.pdf) (in English) +++ Codes: [pyscript: pendulum](exercises/05/ex5c1_pendulum.py), [pyscript: mass-spring-manoeuvre](exercises/05/ex5c3_massspring.py) +++ [back to overview](#overview)
+
+#### DAEs with Inputs and Outputs
+Linear Time Invariant systems as model for input/output relations +++ What if a DAE is involved +++ augmented state formulation +++ Thm. 4.11 to determine free variables that *can* be controls +++ [back to overview](#overview)
 
 ### Literature
 
@@ -177,33 +180,3 @@ RKM for nonlinear DAEs +++ semi-explicit index-2 +++ the *Hairer-Wanner* analysi
 | ------- | ------ | ------- |
 | Kunkel, Mehrmann | Differential-Algebraic Equations | Main reference, very concise, sometimes hard to read |
 | Hairer, Wanner | Solving ODEs. (Stiff and DAEs) | standard reference for solving ODEs (the first volume), intuitive and practical approach to numerical analysis of certain DAEs |
-
-<!-- 
-
-#### Digression: Numerical Solutions of ODEs - May 25th
-+++ basic definitions +++ implicit/explicit Euler +++ consistency and stability +++ Runge-Kutta schemes +++ BDF schemes +++ [back to overview](#overview)
-
-
-
-#### Numerical Solutions of DAEs (2) - June 1st
-+++ Numerical analysis of Runge-Kutta schemes for DAEs with constant coefficients +++  [back to overview](#overview)
-
-
-### Week 9
-
-#### Numerical Solutions of DAEs (4) - June 20th
-+++ Note on Runge-Kutta methods for linear time-varying DAEs +++ definition and analysis of Runge-Kutta schemes for semi-explicit "index-1" DAEs +++ [back to overview](#overview)
-
-#### Numerical Solutions of DAEs (5) - June 21st
-+++ stiffly accurate Runge-Kutta methods +++ definition and analysis of Runge-Kutta schemes for implicit "index-1" DAEs +++ [back to overview](#overview)
-
-### Week 10 
-
-#### Numerical Solutions of DAEs (6) - June 27th
-+++ general remarks on collocation Runge-Kutta methods +++ Backward differencing schemes for DAEs +++ [back to overview](#overview)
-
-#### Numerical Methods for Index Reduction - June 28th
-+++ general concepts of index reduction +++ numerical approach to index reduction via derivative arrays +++ minimal extension +++ [back to overview](#overview)
-
-### Week 11
--->
