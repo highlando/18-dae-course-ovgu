@@ -22,21 +22,21 @@ Consultation hours: Thursday 11:00-12:00 -- please make an appointment by email.
 
 :memo: Jump to the [exercises](#exercises) section.
 
-<h3 id="overview">Course of the lecture (22+6=28)</h3>
- 0. Introductory considerations (1) [[week 1]](#week-1)
+<h3 id="overview">Course of the lecture (23+5=28)</h3>
+ 0. Introductory considerations [[week 1]](#week-1)
    * DAEs in mathematical modelling
    * Applications areas and examples
    * Challenges in the numerical and analytical treatment of DAEs
    * [Literature](#literature)
- 0. General notions from DAE calculus (1+1)
+ 0. General notions from DAE calculus
    * Solutions and solvability
    * Consistency and regularity
    * Indices
- 0. Linear DAEs with constant coefficients (4+1)
+ 0. Linear DAEs with constant coefficients [[week 2]](#week-2)
    * Basic algebraic concepts 
-   * Normal forms [[week 2]](#week-2)
-   * Solvability and representations of solutions <!--- [[week 3]](#week-3)[[week 4]](#week-4) -->
- 0. Linear time-varying and nonlinear DAEs (4+1)
+   * Normal forms
+   * Solvability and representations of solutions [[week 3]](#week-3)
+ 0. Linear time-varying and nonlinear DAEs
    * Fundamental differences with the linear time-invariant case 
    * Time-dependent equivalence transformations and canonical forms <!--- [[week 5]](#week-5) -->
    * *Derivative Arrays* <!--- [[week 6]](#week-6) -->
@@ -168,7 +168,14 @@ RKM for nonlinear DAEs +++ semi-explicit index-2 +++ the *Hairer-Wanner* analysi
 +++ mass-spring chain +++ minimal extension +++ 2-stage Radau IIa +++ CODING: *Implicit Euler* for the nonlinear pendulum equations --- *Radau IIa* for the mass-spring manoeuvre --- simulation of index reduced systems +++ Resources: Use the code from the previous [exercise iv](#exerciseiv) --- check out the [*Oberwolfach snapshot*](http://www.mfo.de/math-in-public/snapshots/files/wie-steuert-man-einen-kran) on the mass-spring chain (in German) or the more verbose [preprint](http://www.mfo.de/scientific-programme/publications/owp/2015/OWP2015_18.pdf) (in English) +++ Codes: [pyscript: pendulum](exercises/05/ex5c1_pendulum.py), [pyscript: mass-spring-manoeuvre](exercises/05/ex5c3_massspring.py) +++ [back to overview](#overview)
 
 #### DAEs with Inputs and Outputs
-Linear Time Invariant systems as model for input/output relations +++ What if a DAE is involved +++ augmented state formulation +++ Thm. 4.11 to determine free variables that *can* be controls +++ [back to overview](#overview)
++++ Linear Time Invariant systems as model for input/output relations +++ What if a DAE is involved +++ augmented state formulation +++ Thm. 4.11 to determine free variables that *can* be controls +++ [back to overview](#overview)
+
+### Week 14
+#### DAEs with Inputs and Outputs (2)
++++ Regularity of descriptor systems +++ Transfer function in time and frequency domain +++ transfer function of the linearized Navier-Stokes equations +++ [back to overview](#overview)
+
+#### Recap
++++ list of contents +++ [back to overview](#overview)
 
 ### Literature
 
