@@ -7,6 +7,8 @@ Course DAEs - OvGU - 2018
 
 > :rocket: Here is the paperhive lecture. Looks like you have to join this [channel](https://paperhive.org/channels/invitationLink?token=Rnz0EW4CHT70) to see the document.
 
+> :rocket: Examinations: Please make an appointment by email. Here is the [list of topics](files/examination.md) for the examinations.
+
 
 Here you find basic and current information and materials for the lecture 
 *DAEs* at the OvGU in the winter term 2018.
@@ -45,14 +47,17 @@ Consultation hours: Thursday 11:00-12:00 -- please make an appointment by email.
    * Digression: Numerical integration of ODEs
    * Runge-Kutta methods (RKM) for DAEs with constant coefficients [[week 9]](#week-9)
    * *Backward Differencing* for DAEs [[week 10]](#week-10)
-   * RKM methods for semi-explicit "index-1" DAEs [[week 11]](#week-11)
-   * RKM methods for implicit "index-1" DAEs
+   * RKM for semi-explicit "index-1" DAEs [[week 11]](#week-11)
+   * RKM for implicit "index-1" DAEs: Collocation RKM
+   * RKM for semi-explicit "index-2" DAEs [[week 12]](#week-12)
+   * RKM/BDF results/implementations/software [overview](http://janheiland.de/script-daes/numerical-analysis-and-software-overview.html)
  0. Numerical Methods for index reduction [[week 7]](#week-7)
    * Derivative Arrays
    * Minimal Extension
- 0. DAEs with controls (1) <!--- [[week 11]](#week-11) -->
-   * Representation as *Behavior*
-   * Index reduction through *Feedback*
+ 0. DAEs with controls [[week 13]](#week-13)
+   * Motivation
+   * Well-posedness and augmented state representation
+   * Regularity and transfer function
 
 ### Exercises
 
