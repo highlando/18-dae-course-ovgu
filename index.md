@@ -36,18 +36,18 @@ Consultation hours: Thursday 11:00-12:00 -- please make an appointment by email.
    * Basic algebraic concepts 
    * Normal forms
    * Solvability and representations of solutions [[week 3]](#week-3)
- 0. Linear time-varying and nonlinear DAEs
+ 0. Linear time-varying and nonlinear DAEs [[week 5]](#week-5)
    * Fundamental differences with the linear time-invariant case 
-   * Time-dependent equivalence transformations and canonical forms <!--- [[week 5]](#week-5) -->
-   * *Derivative Arrays* <!--- [[week 6]](#week-6) -->
-   * *Differentiation-index and Strangeness-index*
- 0. Numerical integration of DAEs (6+2)
+   * Time-dependent equivalence transformations and canonical forms [[week 6]](#week-6)
+   * *Derivative Arrays*
+   * *Differentiation-index and Strangeness-index* [[week 7]](#week-7)
+ 0. Numerical integration of DAEs [[week 8]](#week-8)
    * Digression: Numerical integration of ODEs
-   * Runge-Kutta methods (RKM) for DAEs with constant coefficients <!--- [[week 7]](#week-7)[[week 8]](#week-8) -->
-   * RKM methods for semi-explicit "index-1" DAEs <!--- [[week 9]](#week-9) -->
+   * Runge-Kutta methods (RKM) for DAEs with constant coefficients [[week 9]](#week-9)
+   * *Backward Differencing* for DAEs [[week 10]](#week-10)
+   * RKM methods for semi-explicit "index-1" DAEs [[week 11]](#week-11)
    * RKM methods for implicit "index-1" DAEs
-   * *Backward Differencing* for DAEs <!--- [[week 10]](#week-10) -->
- 0. Numerical Methods for index reduction (1)
+ 0. Numerical Methods for index reduction [[week 7]](#week-7)
    * Derivative Arrays
    * Minimal Extension
  0. DAEs with controls (1) <!--- [[week 11]](#week-11) -->
@@ -154,7 +154,7 @@ How does Euler's method work. +++ What is the consistency error? +++ What is sta
 
 ### Week 11
 #### Numerical Solutions of DAEs (6-7)
-+++ online lecture +++ RKM for nonlinear DAEs +++ semi-explicit strangeness-free +++ collocation and RKM +++ [back to overview](#overview)
++++ [online lecture](https://paperhive.org/channels/invitationLink?token=Rnz0EW4CHT70) +++ RKM for nonlinear DAEs +++ semi-explicit strangeness-free +++ collocation and RKM +++ [back to overview](#overview)
 
 ### Week 12
 #### Numerical Solutions of DAEs (8)
